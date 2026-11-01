@@ -234,7 +234,7 @@ lib/
 
 ---
 
-## 🔮 Improvements If Given More Time
+## 🔨 Improvements If Given More Time
 
 1. **Full Biometric & PIN Unlock**: Wire `local_auth` directly to a PIN / FaceID / Fingerprint lock
    screen on app resume.
@@ -244,3 +244,10 @@ lib/
    users when contribution dates arrive or savings targets are reached.
 4. **Golden & Screenshot Tests**: Add automated screenshot testing harnesses to generate visual
    diffs across screen sizes automatically.
+
+---
+## Download the Android APK:
+[Download app-release.apk (53.4 MB)](https://github.com/saladel/koins_mfb_assessment/releases/download/v1.0.0/Koins.apk)
+
+---
+[🔝](#Koins-MFB---Savings-Application-Assessment)
