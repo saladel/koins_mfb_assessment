@@ -246,7 +246,7 @@ lib/
    diffs across screen sizes automatically.
 
 ---
-## Download the Android APK:
+## Download the Android APK
 [Download APK v1.0.0 (53.4 MB)](https://github.com/saladel/koins_mfb_assessment/releases/download/v1.0.0/Koins.apk)
 
 ---
