@@ -75,15 +75,10 @@ bank. The application enables users to:
 
 ---
 
-## 🖼️ Screenshots
+## 📸Demo
 
-|                    Login Screen                    |                      Dashboard Screen                      |                     Savings Products                     |
-|:--------------------------------------------------:|:----------------------------------------------------------:|:--------------------------------------------------------:|
-| ![Login Screen](docs/screenshots/login_screen.png) | ![Dashboard Screen](docs/screenshots/dashboard_screen.png) | ![Products Screen](docs/screenshots/products_screen.png) |
+https://github.com/user-attachments/assets/20754a9f-3eab-4696-8943-4bd31f8bcaee
 
-|                         Product Details                         |                            Create Savings                            |                     Profile Screen                     |
-|:---------------------------------------------------------------:|:--------------------------------------------------------------------:|:------------------------------------------------------:|
-| ![Product Details](docs/screenshots/product_details_screen.png) | ![Create Savings Screen](docs/screenshots/create_savings_screen.png) | ![Profile Screen](docs/screenshots/profile_screen.png) |
 
 ---
 
