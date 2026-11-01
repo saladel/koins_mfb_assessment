@@ -247,7 +247,7 @@ lib/
 
 ---
 ## Download the Android APK:
-[Download app-release.apk (53.4 MB)](https://github.com/saladel/koins_mfb_assessment/releases/download/v1.0.0/Koins.apk)
+[Download APK v1.0.0 (53.4 MB)](https://github.com/saladel/koins_mfb_assessment/releases/download/v1.0.0/Koins.apk)
 
 ---
 [🔝](#Koins-MFB---Savings-Application-Assessment)
